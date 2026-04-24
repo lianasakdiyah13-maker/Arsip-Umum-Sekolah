@@ -1,2 +1,2 @@
-# Arsip-Umum-Sekolah
+# Arsip-Dokumen-Sekolah
 dokumen umum
